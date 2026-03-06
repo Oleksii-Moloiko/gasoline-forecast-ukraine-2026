@@ -38,18 +38,18 @@ The forecast is saved to:
 outputs/gasoline_forecast_2026.csv
 
 ## Project Structure
-gasoline-forecast-ukraine-2026
-│
-├── data
-│ └── gasoline_prices_ukraine.csv
-│
-├── notebooks
-│ └── forecast.ipynb
-│
-├── outputs
-│ └── gasoline_forecast_2026.csv
-│
-└── README.md
+  gasoline-forecast-ukraine-2026
+  │
+  ├── data
+  │ └── gasoline_prices_ukraine.csv
+  │
+  ├── notebooks
+  │ └── forecast.ipynb
+  │
+  ├── outputs
+  │ └── gasoline_forecast_2026.csv
+  │
+  └── README.md
 
 ## Author
 Pet project for learning **Data Science / Machine Learning with Python**.
